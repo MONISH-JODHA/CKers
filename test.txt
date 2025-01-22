@@ -1,3 +1,7 @@
 Learning by merging and Branching git repos
+<<<<<<< HEAD
 changes done from branch f2
 
+=======
+changing bases on branch f1
+>>>>>>> f1
